@@ -4,6 +4,7 @@ This application provides a web interface to control a servo motor connected to 
 
 ## Project Structure
 
+```
 servo-interface/
 ├── .gitignore
 ├── app.js
@@ -13,6 +14,7 @@ servo-interface/
 ├── templates/
 │   └── home.html
 └── ...
+```
 
 ## Setup Instructions
 
